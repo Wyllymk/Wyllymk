@@ -1,12 +1,5 @@
-
-    👋 Hi, I’m @Wyllymk
-    👀 I’m interested in JavaScript
-    🌱 I’m currently learning ReactJS
-    💞️ I’m looking to collaborate on (...)
-    📫 Reach me on email: wyllyjeremy@gmail.com and phone: +254703639230 (WhatsApp)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyllymk&hide=contribs,prs&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyllymk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://freelancer.atomicwebspace.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
@@ -19,15 +12,15 @@ Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻, and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/wilson-mbuthia-a41870162/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://twitter.com/WilsonMbuthiaK"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -82,6 +75,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyllymk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
