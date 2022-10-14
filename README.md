@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://https://wyllymk.github.io/newport/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="noreferrer">Wilson</a> 👋
 </h3>
 
 <h2 align="center">
