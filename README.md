@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyllymk&hide=contribs,prs&show_icons=true&theme=radical)
-
-
 <p align="center">
   <a href="https://freelancer.atomicwebspace.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
 </p>
@@ -72,5 +69,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyllymk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyllymk&hide=contribs,prs&show_icons=true&theme=radical)
+
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
