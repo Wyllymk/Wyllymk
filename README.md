@@ -6,4 +6,4 @@
     📫 Reach me on email: wyllyjeremy@gmail.com and phone: +254703639230 (WhatsApp)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyllymk&hide=contribs,prs&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wyllymk&repo=github-readme-stats)](https://github.com/wyllymk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyllymk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
