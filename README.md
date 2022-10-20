@@ -7,6 +7,10 @@ Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="
 I'm a Full-Stack Web Developer 💻, and Designer 🎨!
 </h2> 
 
+**About me**
+
+I'm a self-taught passionate FrontEnd developer from Kenya 
+
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
@@ -14,7 +18,8 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.linkedin.com/in/wilson-mbuthia-a41870162/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/WilsonMbuthiaK"><img align="left" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="Wilson | Twiter" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+- 💬 Ask me about anything [here](https://github.com/Wyllymk/Wyllymk/issues)
 
 ## 🔭 I'm currently working on
 
@@ -26,6 +31,12 @@ I love the entire process of developing creative websites. I love the challenge 
 - 🎨 Tailwind CSS
 
 ## 💼 Technical Skills
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-laravel-informational?style=flat&logo=Laravel&color=764ABC)
