@@ -12,7 +12,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/wilson-mbuthia-a41870162/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/WilsonMbuthiaK"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Wilson | Twiter" width="21px"/></a>
+<a href="https://twitter.com/WilsonMbuthiaK"><img align="left" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="Wilson | Twiter" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
