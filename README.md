@@ -18,7 +18,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Angular project
+- PHP project
 - React.JS and Tailwind CSS portfolio website
 
 ## 🌱 I'm currently learning
