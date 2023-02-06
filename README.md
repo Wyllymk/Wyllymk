@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, and Designer 🎨!
+I'm a WordPress Developer 💻, and Designer 🎨!
 </h2> 
 
 **About me**
