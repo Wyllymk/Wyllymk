@@ -1,3 +1,4 @@
+![photo_2023-04-13_09-39-23](https://user-images.githubusercontent.com/43001460/231827297-745780cd-5be0-4dd7-9910-086c4b7a3f4b.jpg)
 
 <h3 align="center">
 Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="noreferrer">Wilson</a> 👋
