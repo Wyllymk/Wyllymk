@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-I'm a WordPress Developer 💻, and Designer 🎨!
+I'm a Fullstack Software Engineer 💻!
 </h2> 
 
 **About me**
@@ -24,12 +24,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- PHP project
-- React.JS and Tailwind CSS portfolio website
-
+- C# project
+- .NET Core
 ## 🌱 I'm currently learning
 
-- 🎨 Tailwind CSS
+- 🎨 .NET
 
 ## 💼 Technical Skills
 
