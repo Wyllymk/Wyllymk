@@ -67,7 +67,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wyllymk\&show_icons=true\&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wyllymk" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wyllymk&layout=compact&langs_count=8&card_width=320" />
