@@ -66,7 +66,13 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyllymk\&show_icons=true\&theme=radical) <a href="https://github.com/Wyllymk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyllymk&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wyllymk\&show_icons=true\&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyllymk&layout=compact&langs_count=8&card_width=320&theme=buefy&hide_border=true" />
+</a>
+
 
 <p align="center"><a href="https://Wyllymk.github.io"><img width="80%" alt="Hello, I'm Wilson. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
