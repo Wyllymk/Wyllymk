@@ -5,12 +5,12 @@ Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-I'm a Fullstack Software Engineer 💻!
+I'm a WordPress Fullstack Software Engineer 💻!
 </h2> 
 
 **About me**
 
-I'm a self-taught passionate Fullstack developer from Kenya 
+I'm a self-taught passionate WordPress Fullstack developer from Kenya 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
