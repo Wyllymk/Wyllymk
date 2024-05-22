@@ -66,7 +66,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical) | <a href="https://github.com/Wyllymk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wyllymk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wylly's github stats" /></a> | <a href="https://github.com/Wyllymk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyllymk&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyllymk\&show_icons=true\&theme=radical) | <a href="https://github.com/Wyllymk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wyllymk&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wylly's github stats" /></a> | <a href="https://github.com/Wyllymk/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyllymk&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align="center"><a href="https://Wyllymk.github.io"><img width="80%" alt="Hello, I'm Wilson. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
