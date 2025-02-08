@@ -24,8 +24,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- C# project
-- .NET Core
+- WordPress Tailwind Theme
+- WordPress Blocks
 ## 🌱 I'm currently learning
 
 - 🎨 .NET
