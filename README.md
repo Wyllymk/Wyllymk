@@ -1,84 +1,88 @@
 ![photo_2023-04-13_09-39-23](https://user-images.githubusercontent.com/43001460/231827297-745780cd-5be0-4dd7-9910-086c4b7a3f4b.jpg)
 
+<h1 align="center">Hi there, I'm Wilson 👋</h1>
+
 <h3 align="center">
-Hi there, I'm <a href="https://wyllymk.github.io/newport/" target="_blank" rel="noreferrer">Wilson</a> 👋
+WordPress Fullstack Software Engineer 💻 | Kenya 🇰🇪
 </h3>
 
-<h2 align="center">
-I'm a WordPress Fullstack Software Engineer 💻!
-</h2> 
+<p align="center">
+<a href="https://wyllymk.github.io/newport/" target="_blank">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/wilson-mbuthia-k/" target="_blank">LinkedIn</a> • 
+<a href="https://twitter.com/WilsonMbuthiaK" target="_blank">Twitter</a>
+</p>
 
-**About me**
+---
 
-I'm a self-taught passionate WordPress Fullstack developer from Kenya 
+## 👨‍💻 About Me
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I'm a self-taught passionate **WordPress Fullstack Developer** from Kenya.
 
-### 🤝 Connect with me:
+I enjoy building modern, performant websites and working across the full stack—especially within the WordPress ecosystem, custom themes, and Gutenberg blocks.
 
-<a href="https://www.linkedin.com/in/wilson-mbuthia-k/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/WilsonMbuthiaK"><img align="left" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" alt="Wilson | Twiter" width="21px"/></a>
-</br>
+I care deeply about clean architecture, developer experience, and creating interfaces that feel alive.
 
-- 💬 Ask me about anything [here](https://github.com/Wyllymk/Wyllymk/issues)
+---
 
-## 🔭 I'm currently working on
+## 🔭 Current Work
 
-- WordPress Tailwind Theme
-- WordPress Blocks
-## 🌱 I'm currently learning
+- WordPress Tailwind-based Theme Development
+- Custom Gutenberg Blocks (React + WP API)
 
-- 🎨 .NET
+---
 
-## 💼 Technical Skills
+## 🌱 Currently Learning
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+- .NET ecosystem
+- Advanced WordPress architecture (headless WP, REST API patterns)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-laravel-informational?style=flat&logo=Laravel&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=003B57)
+---
 
-</br>
+## 🧰 Tech Stack
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nodejs,graphql,mysql" />
+</p>
 
+### Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</p>
 
-</br>
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,yarn,figma,netlify,heroku,vscode" />
+</p>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+---
 
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wyllymk&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyllymk&layout=compact" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Wyllymk" />
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/wilson-mbuthia-k/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wyllymk&layout=compact&langs_count=8&card_width=320" />
+&nbsp;&nbsp;
+<a href="https://twitter.com/WilsonMbuthiaK">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25"/>
 </a>
+</p>
 
-***
+---
 
-<p align="center"><a href="https://Wyllymk.github.io"><img width="80%" alt="Hello, I'm Wilson. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+## ⚡ Fun Fact
 
-<br />
-
+I love reverse-engineering how complex UI/UX systems work and rebuilding them better in WordPress + modern JS stacks.
 
 
 <a href="https://twitter.com/WilsonMbuthiaK">
