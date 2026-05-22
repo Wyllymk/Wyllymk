@@ -33,7 +33,6 @@ I care deeply about clean architecture, developer experience, and creating inter
 
 ## 🌱 Currently Learning
 
-- .NET ecosystem
 - Advanced WordPress architecture (headless WP, REST API patterns)
 
 ---
@@ -68,13 +67,15 @@ I care deeply about clean architecture, developer experience, and creating inter
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/wilson-mbuthia-k/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/wilson-mbuthia-k/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
 </a>
+
 &nbsp;&nbsp;
-<a href="https://twitter.com/WilsonMbuthiaK">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="25"/>
+
+<a href="https://twitter.com/WilsonMbuthiaK" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="26"/>
 </a>
 </p>
 
