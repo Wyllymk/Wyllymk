@@ -7,7 +7,7 @@ WordPress Fullstack Software Engineer 💻 | Kenya 🇰🇪
 </h3>
 
 <p align="center">
-<a href="https://wyllymk.github.io/newport/" target="_blank">Portfolio</a> • 
+<a href="https://wilsondevops.com" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/wilson-mbuthia-k/" target="_blank">LinkedIn</a> • 
 <a href="https://twitter.com/WilsonMbuthiaK" target="_blank">Twitter</a>
 </p>
